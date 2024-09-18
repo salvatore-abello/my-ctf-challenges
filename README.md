@@ -10,7 +10,7 @@ Sat, 30 Set. 2023, 12:00 UTC — Sun, 01 Ott. 2023, 12:00 UTC
 
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Borraccia](CTE%202024/)|web|2|★★★|[link](https://ctftime.org/writeup/37965)|Python, Format String|
+|[Borraccia](TeamItaly%20CTF%202023/Borraccia)|web|2|★★★|[link](https://ctftime.org/writeup/37965)|Python, Format String|
 
 
 
@@ -18,4 +18,4 @@ Sat, 30 Set. 2023, 12:00 UTC — Sun, 01 Ott. 2023, 12:00 UTC
 
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Useless](a)|misc|3|★★★★|None|Python, PyJail|
+|[Useless](CTE%202024/)|misc|3|★★★★|None|Python, PyJail|
