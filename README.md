@@ -7,7 +7,7 @@ Challenges created by me for various CTFs
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Online Python Compiler](test/)|web|92|Warmup|None|Python|
-|[Baby Sandbox](test/)|★★|19|Warmup|None|Shadow DOM|
+|[Baby Sandbox](test/)|web|19|★★|None|Shadow DOM|
 |[Golf](test/)|misc|11|★★|None|Python, Pyjail, Golf|
 |[Keeper](test/)|web|3|★★★★★★|None|CSRF, CSS Injection, Connection Pool|
 
