@@ -1,7 +1,7 @@
 # my-ctf-challenges
 Challenges created by me for various CTFs
 
-## Compete Against Team Europe 2025
+## Compete With Team Europe 2025
 
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -17,7 +17,7 @@ Challenges created by me for various CTFs
 |[Golf](test/)|misc|11|★★|None|Python, Pyjail, Golf|
 |[Keeper](test/)|web|3|★★★★★★|None|CSRF, CSS Injection, Connection Pool|
 
-## Compete Against Team Europe 2024
+## Compete With Team Europe 2024
 
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
 |:-:|:-:|:-:|:-:|:-:|:-:|
