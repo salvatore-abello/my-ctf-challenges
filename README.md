@@ -1,6 +1,12 @@
 # my-ctf-challenges
 Challenges created by me for various CTFs
 
+## Compete Against Team Europe 2025
+
+|Challenge|Category|Solved|Difficulty|Writeup|Keywords|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Vauleat](CTE%202025/)|web|0|★★★|None|Dangling Markup Injection, iframe|
+
 
 ## TRX CTF 2025
 
