@@ -1,6 +1,12 @@
 # my-ctf-challenges
 Challenges created by me for various CTFs
 
+## Twitter
+
+|Challenge|Category|Solved|Difficulty|Writeup|Keywords|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[challenge-01](https://github.com/salvatore-abello/web-challenges/tree/main/X/salvatoreabello)|web|2|★★★★★|None|Connection Pool|
+
 ## Compete With Team Europe 2025
 
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
