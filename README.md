@@ -14,7 +14,7 @@ Challenges created by me for various CTFs
 
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[challenge-01](https://github.com/salvatore-abello/web-challenges/tree/main/X/salvatoreabello)|web|2|★★★★★★☆☆☆☆|None|Connection Pool|
+|[challenge-01](https://github.com/salvatore-abello/web-challenges/tree/main/X/salvatoreabello)|web|2|★★★★★★☆☆☆☆|[link](https://blog.babelo.xyz/posts/cross-site-subdomain-leak/)|Connection Pool|
 
 ## Compete With Team Europe 2025
 
@@ -30,7 +30,7 @@ Challenges created by me for various CTFs
 |[Online Python Compiler](test/)|web|92|Warmup|None|Python|
 |[Baby Sandbox](test/)|web|19|★★★☆☆☆☆☆☆☆|None|Shadow DOM|
 |[Golf](test/)|misc|11|★★★☆☆☆☆☆☆☆|None|Python, Pyjail, Golf|
-|[Keeper](test/)|web|3|★★★★★★★★☆☆|None|CSRF, CSS Injection, Connection Pool|
+|[Keeper](test/)|web|3|★★★★★★★★☆☆|[link](https://blog.babelo.xyz/posts/css-exfiltration-under-default-src-self/)|CSRF, CSS Injection, Connection Pool|
 
 ## Compete With Team Europe 2024
 
