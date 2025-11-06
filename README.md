@@ -1,6 +1,15 @@
 # my-ctf-challenges
 Challenges created by me for various CTFs
 
+## CTRL+SPACE CTF Finals 2025
+|Challenge|Category|Solved|Difficulty|Writeup|Keywords|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Simple Is Better](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|web|5|★★|None|0day, pyjail|
+|[StellarEye](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/StellarEye)|web|4|★★★|None|Parser Differential, SSRF, DNS Rebinding, chromedriver|
+|[Space Notes](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Space%20Notes)|web|1|★★★★|None|Dangling Markup|
+
+
+
 ## Twitter
 
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
