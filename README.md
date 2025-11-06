@@ -20,7 +20,7 @@ Challenges created by me for various CTFs
 
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Vauleat](CTE%202025/)|web|0|★★☆☆☆☆☆☆☆☆|None|Dangling Markup Injection, iframe|
+|[Vauleat](CTE%202025/)|web|0|★★★☆☆☆☆☆☆☆|None|Dangling Markup Injection, iframe|
 
 
 ## TRX CTF 2025
