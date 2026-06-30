@@ -7,7 +7,6 @@ Challenges created by me for various CTFs
 |[Pixel Valut](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|web|7|★★★★★★★★☆☆|None|novel, polyglot, format strings, python|
 |[Pixel Perfect](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|web|6|★★★★★★★★☆☆|None|novel, polyglot, format strings, python, revenge|
 |[Babel](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|web|5|★★★★★★☆☆☆☆|None|Pyjail|
-
 |[markdown2](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|web|5|★★★★★☆☆☆☆☆|None|0day, markdown2, client side|
 |[Simple Is Better](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|web|5|★★★★☆☆☆☆☆☆|None|prototype pollution, gadget, hapi, inert|
 |[Procrustes](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|web|5|★★★☆☆☆☆☆☆☆|None|pyjail, bytecode, polyglot|
