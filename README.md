@@ -10,7 +10,7 @@ Challenges created by me for various CTFs
 |[markdown2](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|web|5|★★★★★☆☆☆☆☆|None|0day, markdown2, client side|
 |[Simple Is Better](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|web|5|★★★★☆☆☆☆☆☆|None|prototype pollution, gadget, hapi, inert|
 |[Procrustes](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|web|5|★★★☆☆☆☆☆☆☆|None|pyjail, bytecode, polyglot|
-|[Who Is He](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|misc|5|★★☆☆☆☆☆☆☆|None|ruby, regex, RCE|
+|[Who Is He](https://github.com/salvatore-abello/web-challenges/tree/main/CTRL%2BSPACE%20Finals%202025/Simple%20Is%20Better)|misc|5|★★☆☆☆☆☆☆☆☆|None|ruby, regex, RCE|
 
 
 ## CTRL+SPACE CTF Finals 2025
