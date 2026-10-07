@@ -1,6 +1,14 @@
 # my-ctf-challenges
 Challenges created by me for various CTFs
 
+## Mntcrl CTF 2026
+|Challenge|Category|Solved|Difficulty|Writeup|Keywords|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Abstract Jail](https://github.com/Mntcrl/MntcrlCTF-2026/tree/main/abstract-jail)|misc|5|★★★★★☆☆☆☆☆|None|pyjail, ast|
+|[XSSaaS](https://github.com/Mntcrl/MntcrlCTF-2026/tree/main/xssaas)|web|1|★★★★★★☆☆☆☆|None|chromedriver, javascript, xss, RCE|
+|[Cosmic Rays](https://github.com/Mntcrl/MntcrlCTF-2026/tree/main/cosmic-rays)|pwn|9|★★★☆☆☆☆☆☆☆|None|pwn, python, bit-flip|
+|[pycheck](https://github.com/Mntcrl/MntcrlCTF-2026/blob/main/pycheck/)|rev|13|★★☆☆☆☆☆☆☆☆|None|python, pyarmor, dynamic|
+
 ## TRX CTF 2026
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
 |:-:|:-:|:-:|:-:|:-:|:-:|
