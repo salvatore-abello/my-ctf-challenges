@@ -1,6 +1,12 @@
 # my-ctf-challenges
 Challenges created by me for various CTFs
 
+## International Cybersecurity Olympiads 2026
+|Challenge|Category|Solved|Difficulty|Writeup|Keywords|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Breach the Operator infrastructure](https://archive.ico-official.net/challenges#challenge-16)|web|4|★★★★★☆☆☆☆☆|None|web, python, format string injection, side channel|
+|[Recover the Hidden Notes](https://archive.ico-official.net/challenges#challenge-17)|web|2|★★★★☆☆☆☆☆☆|None|web, open redirect, xss, javascript|
+
 ## Mntcrl CTF 2026
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
 |:-:|:-:|:-:|:-:|:-:|:-:|
