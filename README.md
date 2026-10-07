@@ -4,10 +4,10 @@ Challenges created by me for various CTFs
 ## Mntcrl CTF 2026
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Abstract Jail](https://github.com/Mntcrl/MntcrlCTF-2026/tree/main/abstract-jail)|misc|5|★★★★★☆☆☆☆☆|None|pyjail, ast|
-|[XSSaaS](https://github.com/Mntcrl/MntcrlCTF-2026/tree/main/xssaas)|web|1|★★★★★★☆☆☆☆|None|chromedriver, javascript, xss, RCE|
-|[Cosmic Rays](https://github.com/Mntcrl/MntcrlCTF-2026/tree/main/cosmic-rays)|pwn|9|★★★☆☆☆☆☆☆☆|None|pwn, python, bit-flip|
-|[pycheck](https://github.com/Mntcrl/MntcrlCTF-2026/blob/main/pycheck/)|rev|13|★★☆☆☆☆☆☆☆☆|None|python, pyarmor, dynamic|
+|[pycheck](https://github.com/Mntcrl/MntcrlCTF-2026/tree/main/pycheck/writeup)|rev|13|★★☆☆☆☆☆☆☆☆|None|python, pyarmor, dynamic|
+|[Cosmic Rays](https://github.com/Mntcrl/MntcrlCTF-2026/tree/main/cosmic-rays/writeup)|pwn|9|★★★☆☆☆☆☆☆☆|None|pwn, python, bit-flip|
+|[Abstract Jail](https://github.com/Mntcrl/MntcrlCTF-2026/tree/main/abstract-jail/writeup)|misc|5|★★★★★☆☆☆☆☆|None|pyjail, ast|
+|[XSSaaS](https://github.com/Mntcrl/MntcrlCTF-2026/tree/main/xssaas/writeup)|web|1|★★★★★★☆☆☆☆|None|chromedriver, javascript, xss, RCE|
 
 ## TRX CTF 2026
 |Challenge|Category|Solved|Difficulty|Writeup|Keywords|
